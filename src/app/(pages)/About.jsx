@@ -42,7 +42,7 @@ export default function About() {
                     </div>
                 </div>
 
-                <div className="md:grid md:gap-6 md:grid-cols-3 md:justify-center md:items-center">
+                <div className="mt-6 md:grid md:gap-6 md:grid-cols-3 md:justify-center md:items-center">
                     <div className="grid grid-cols-2 gap-4">
                         <Image
                             className="rounded"

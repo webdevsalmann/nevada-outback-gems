@@ -4,15 +4,7 @@ export const footerLinks = [
         href: "/"
     },
     {
-        title: "Rare Gemstones",
-        href: "/"
-    },
-    {
-        title: "How to make a purchase, information and terms",
-        href: "/"
-    },
-    {
-        title: "About Us",
+        title: "Rare Crystals & Gemstones",
         href: "/"
     },
     {
@@ -20,15 +12,15 @@ export const footerLinks = [
         href: "/"
     },
     {
-        title: "Contact Us",
+        title: "About Gem Cutting",
         href: "/"
     },
     {
-        title: "More Info about Turquoise",
+        title: "Make Own Gemstone Jewelry",
         href: "/"
     },
     {
-        title: "virtual tour of Nevada Turquoise mines",
+        title: "News",
         href: "/"
     },
     {
@@ -36,35 +28,35 @@ export const footerLinks = [
         href: "/"
     },
     {
-        title: "Chris' Prospecting Encyclopedia",
+        title: "Chris's Prospecting Encyclopedia",
         href: "/"
     },
     {
-        title: " Library and Bookstore ",
+        title: "Library and Bookstore",
         href: "/"
     },
     {
-        title: "Nevada Outback Gems Website News",
+        title: "Metal Detecting",
         href: "/"
     },
     {
-        title: "about Gem Cutting",
+        title: "About Us",
         href: "/"
     },
     {
-        title: " Make Your Own Gemstone Jewelry",
+        title: "Contact Us",
         href: "/"
     },
     {
-        title: "Metal Detecting with the MXT Metal Detector",
+        title: "How to make a purchase",
         href: "/"
     },
     {
-        title: "Nevada Outback Gems Site Map",
+        title: "Buy Safely on EBay, avoid fraud",
         href: "/"
     },
     {
-        title: "Buy Safely on EBay: avoid fraud and scam artists ",
+        title: "virtual tour of Nevada mines",
         href: "/"
     },
 ]
@@ -165,7 +157,7 @@ export const storeItems = [
                 price: "26.12"
             },
             {
-                imgUrl: "/images/store/turquoise-cabochons/lander-area/L01.jpg",
+                imgUrl: "/images/store/turquoise-cabochons/lander-area/L02.jpg",
                 description: "Beautiful Light blue Cab with contrasting black matrix. Measures 12 x 15 mm in size.",
                 stock: "Lander Area Turquoise Cab No.   L2    – 3.22 Ct  ",
                 price: "7.25"
